@@ -16,7 +16,7 @@ To run this tool, follow these steps:
 1. **Set Up the Environment**:
    - Ensure Python is installed on your system along with necessary libraries: `tkinter`, `pyautogui`, `keyboard`, `pyperclip`, `pygetwindow`, `requests`, and `json`.
    - Install any missing libraries using pip (e.g., `pip install pyautogui`).
-   - Ensure Microsoft PowerToys is installed and the shortcut for Text Extractor is set to Alt + T
+   - Ensure 'Microsoft PowerToys' is installed and the shortcut for Text Extractor is set to Alt + T
 
 2. **Run the Script**:
    - Execute the script with Python: `python Main.py`.
